@@ -92,7 +92,8 @@ class Application(tk.Frame):
                 "CCCCCC": {"type": 2, "name": "crossing", "value": 0},
                 "666666": {"type": 3, "name": "desert/tundra", "value": 1},
                 "333333": {"type": 4, "name": "hills", "value": 3},
-                "999999": {"type": 5, "name": "mountains", "value": 0}
+                "999999": {"type": 5, "name": "mountains", "value": 0},
+                "1F1F1F": {"type": 6, "name": "forest", "value": 4}
             }
 
             processed_pixels = []
